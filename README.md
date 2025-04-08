@@ -1,7 +1,6 @@
 # Calculadora Simples em Python 🧮
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://python.org)
-[![Licença MIT](https://img.shields.io/badge/License-MIT-green)](../LICENSE.md)
 
 Uma calculadora simples com interface gráfica desenvolvida em Python usando Tkinter.
 
