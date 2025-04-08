@@ -17,17 +17,18 @@ Uma calculadora simples com interface gráfica desenvolvida em Python usando Tki
 ## 🚀 Como Executar
 
 1. Clone o repositório:
-```
+```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
-
+```
 2. Acesse a pasta do projeto:
-```
+```bash
 cd calculadora-python
-
+```
 3. Instale as dependências:
-```
+```bash
 pip install -r requirements.txt
-
-4. Execute a calculadora:
 ```
+4. Execute a calculadora:
+```bash
 python calculadora.py
+```
