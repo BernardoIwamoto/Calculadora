@@ -1,4 +1,4 @@
-# Calculadora Simples em Python 🧮
+# Calculadora Simples em Python 
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://python.org)
 
@@ -6,14 +6,14 @@ Uma calculadora simples com interface gráfica desenvolvida em Python usando Tki
 
 ![Interface da Calculadora](./screenshots/Initial.png)
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - Operações básicas: adição, subtração, multiplicação e divisão
 - Sistema de limpar tela (botão `C`)
 - Design intuitivo com teclado numérico
 - Cálculos imediatos com resultado no clique de `=`
 
-## 🚀 Como Executar
+##  Como Executar
 
 1. Clone o repositório:
 ```bash
